@@ -45,6 +45,39 @@ ionic capacitor copy ios
 ionic capacitor run ios
 fail with rubi
 
+
+ 364  xcode-select --install
+  365  pwd
+  366  npm install -g ios-sim
+  367  sudo npm install -g ios-sim
+  368  sudo brew install ios-deploy
+  369  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+  370  sudo brew install ios-deploy
+  371  brew install ios-deploy
+  372  brew install ios-deploy
+  373  brew reinstall ios-deploy
+  374  ionic capacitor add ios
+  375  ionic cordova prepare ios
+  376  ionic integrations disable capacitor
+  377  ionic cordova prepare ios
+  378  sudo npm i -g cordova
+  379  ionic capacitor open ios
+  380  ionic integrations enable capacitor
+
+
+ionic capacitor copy ios
+ionic capacitor open ios
+sudo pod install
+sudo gem install cocoapods
+ionic capacitor open ios
+sudo npm install @capacitor/ios
+npx cap add ios
+open ios/App/App.xcworkspace
+npx cap run ios
+sudo npx cap run ios
+open ios/App/App.xcworkspace
+
+
 open ios/App/App.xcworkspace
 works
 

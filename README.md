@@ -37,7 +37,17 @@ ionic capacitor open ios
 
 https://ionicframework.com/docs/developing/ios
 https://capacitor.ionicframework.com/docs/
+
+ionic capacitor add ios
+ionic build
+ng build
+ionic capacitor copy ios
+ionic capacitor run ios
+fail with rubi
+
 open ios/App/App.xcworkspace
+works
+
 ionic integrations disable capacitor
 
 

@@ -25,3 +25,32 @@ Steps for installation and execution:
   </li>
   <li>Thank You.</li>
 </ul>
+
+npm install @capacitor/core
+npm install @capacitor/cli --save-dev
+
+ionic capacitor add android
+ionic capacitor copy android
+ionic capacitor run android
+ionic capacitor run android --list
+ionic capacitor open ios
+
+https://ionicframework.com/docs/developing/ios
+ionic integrations disable capacitor
+
+
+
+
+ionic capacitor sync
+gem install cocoapods
+npm install -g ios-sim
+npm install -g ios-deploy
+npm install -g ios-deploy --unsafe-perm=true
+
+
+
+command is ionic cap open android for Open project in Android Studio.
+
+ionic cap run android for run project via android studio
+
+ionic cap run android --external for liveReload but here need is both of devices connected on same network.

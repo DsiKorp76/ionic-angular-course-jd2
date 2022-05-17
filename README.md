@@ -36,6 +36,8 @@ ionic capacitor run android --list
 ionic capacitor open ios
 
 https://ionicframework.com/docs/developing/ios
+https://capacitor.ionicframework.com/docs/
+open ios/App/App.xcworkspace
 ionic integrations disable capacitor
 
 

@@ -73,7 +73,7 @@ ionic capacitor open ios
 sudo npm install @capacitor/ios
 npx cap add ios
 open ios/App/App.xcworkspace
-npx cap run ios
+
 sudo npx cap run ios
 open ios/App/App.xcworkspace
 
